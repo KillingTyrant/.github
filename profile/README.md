@@ -1,8 +1,8 @@
-# Welcome to KillingTyrant 👋
+# Benvenuti in KillingTyrant 👋
 
 <div align="center">
 
-![Organization Banner](https://via.placeholder.com/900x200/1a1a2e/ffffff?text=KillingTyrant)
+![Organization Banner](https://via.placeholder.com/900x200/1a1a2e/ffffff?text=Rysonance)
 
 [![GitHub followers](https://img.shields.io/github/followers/KillingTyrant?style=social)](https://github.com/KillingTyrant)
 
@@ -10,41 +10,41 @@
 
 ---
 
-## About Us 🚀
+## Chi siamo 🎭
 
-We are **KillingTyrant** — a passionate team of developers building open-source projects and tools.
-
----
-
-## What We Do 🛠️
-
-- 🔧 Build and maintain open-source software
-- 🌍 Collaborate with the community
-- 📚 Share knowledge and best practices
-- 💡 Innovate and experiment with new technologies
+Siamo **KillingTyrant**: un gruppo di creativi dedicati alla progettazione di **Rysonance**, un gioco di ruolo RPG originale.
 
 ---
 
-## Our Projects 📦
+## Cosa facciamo 🛠️
 
-Browse our repositories to explore what we're working on. Contributions, issues, and feedback are always welcome!
-
----
-
-## Get Involved 🤝
-
-- ⭐ Star your favourite repositories
-- 🐛 Report issues or suggest features
-- 🔀 Open pull requests
+- ✍️ Creiamo lore, ambientazioni e personaggi
+- 🎲 Progettiamo regole, sistemi e meccaniche di gioco
+- 🎨 Sviluppiamo concept visivi e identità del mondo di gioco
+- 🤝 Collaboriamo per dare vita a un’esperienza RPG coinvolgente
 
 ---
 
-## Contact 📬
+## Progetto principale 📦
 
-Feel free to reach out by opening an issue in any of our repositories or following us on GitHub.
+**Rysonance** è il cuore del nostro lavoro: un RPG costruito con passione, immaginazione e cura dei dettagli.
+
+---
+
+## Contribuisci 🤝
+
+- ⭐ Segui il progetto e i repository dell’organizzazione
+- 🐛 Apri issue per idee, suggerimenti o segnalazioni
+- 🔀 Invia pull request se vuoi contribuire allo sviluppo
+
+---
+
+## Contatti 📬
+
+Se vuoi saperne di più su Rysonance, apri una issue in uno dei repository dell’organizzazione oppure contattaci tramite GitHub.
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by the KillingTyrant team</sub>
+  <sub>Realizzato con ❤️ dal team KillingTyrant</sub>
 </div>
